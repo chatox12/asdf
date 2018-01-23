@@ -1,0 +1,67 @@
+
+/*div del login*/
+.login{
+  background-color: #03a9f4;
+}
+
+.login a{
+  color: #fff;
+  display: inline-block;
+  width: 10%;
+  text-align: center;
+
+}
+
+/*color del div de navbar*/
+.navbar{
+  background-color: #03a9f4;
+
+}
+
+/*para el menu*/
+.menu{
+  list-style: none;
+}
+.menu li a{
+  margin-top: 0px;
+  color: white;
+  display: block;
+  float:left;
+  font-size: 1.2em;
+  padding-left:  1em;
+  padding-right: 1em;
+  position: relative;
+  text-decoration: none;
+}
+
+.menu li a:hover{
+  background-color: #02a9c3;
+  padding-bottom: 1em;
+  padding-top: 4px;
+  position: relative;
+}
+
+/*para el logo*/
+.logo_agile{
+  text-align: center;
+}
+
+.logo_agile h1 a{
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #03a9f4;
+  letter-spacing: 1px;
+  position: relative;
+}
+
+.logo_agile h1 a:hover{
+  text-decoration: none;
+
+}
+
+.logo_agile span{
+  background: #47fffa;
+  padding: 0 17px;
+  font-weight: bold;
+  color: #fff;
+}
